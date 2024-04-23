@@ -29,5 +29,5 @@ This website and its content are licensed under the [Creative Commons Attributio
 
 Thank you for visiting the Six Flags New Orleans Website! I hope you enjoy exploring the history and stories behind this beloved theme park.
 
-![Six Flags New Orleans](imagens/six.jpg)
-)
+![Six Flags New Orleans](https://th.bing.com/th/id/R.4d6c95c34bd3de5640dd8abad2ccaea5?rik=wa5EfS2fgxkuyA&riu=http%3a%2f%2f1.bp.blogspot.com%2f-ef_KHXFYXaM%2fURWL0kK-qiI%2fAAAAAAAAbK4%2fF5hU5SRrybw%2fs1600%2fCool-Zone-abandoned-Six-Flags-New-Orleans.jpg&ehk=MClRVOGxU%2bpyReG1Gw8mDqWejTvK%2bKO4a%2fdZqr%2f729E%3d&risl=&pid=ImgRaw&r=0)
+
